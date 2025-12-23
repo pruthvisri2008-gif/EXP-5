@@ -46,10 +46,14 @@ REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
 Line regulation:
-![line reg exp5 circuit](https://github.com/user-attachments/assets/3bc39b11-f7e1-4440-8214-95a279cf02c![line reg exp5 circuit1](https://github.com/user-attachments/assets/697f5769-dcd7-4015-9cc9-63f08f14c923)
+![line reg exp5 circuit](https://github.com/user-attachments/assets/06ff2f83-24ef-4026-8532-2e6722eaa6cf)
+![line reg exp5 circuit1](https://github.com/user-attachments/assets/4cbe7432-8f54-4238-a0e0-88353b0a991d)
+
 
 Load regulation:
-![load reg exp05 circuit](https://github.com/user-attachments/assets/fc877f34-9629-49b9-bb4c-f8911ff717a7)
+![load reg exp05 circuit](https://github.com/user-attachments/assets/b62b0621-fe5e-4f3e-901f-f39cf23162d8)
+![load reg exp05 circuit1](https://github.com/user-attachments/assets/d470fb00-44a8-4cd2-b9c7-55a3a1301d58)
+
 
 
 PRECAUTIONS:
